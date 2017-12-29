@@ -1,0 +1,99 @@
+/*
+Theme Name: golfblog
+Theme URI: http://lucaschae.com;
+Author: Lucas Chae
+Author URI: http://lucaschae.com;
+Description: General theme for the golf blog
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: update
+*/
+
+.container-fluid {
+    background-color: #f1f1f1;
+}
+
+
+div.recentpost-inner-content {
+    font-family: 'Raleway';
+    
+}
+
+h1{
+    font-family: 'Open Sans';
+}
+
+.alignTop {
+    margin-top:-50px;
+    padding-bottom:20px;
+}
+
+.navigation {
+    font-family: 'Raleway';
+    font-weight: 200;
+    font-size: 16px;
+    background-color:rgba(0,0,0,0.7);
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+
+
+.site-nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.site-nav ul li{
+    padding-right:10px;
+    list-style:none;
+    float: right;
+   
+}
+
+.site-nav ul li a {
+    color: #ffffff;
+    -webkit-transition: color 0.35s;
+    -moz-transition:    color 0.35s;
+    -ms-transition:     color 0.35s;
+    -o-transition:      color 0.35s;
+    transition:         color 0.35s;
+    
+}
+
+#titleRibbon.row {
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+#titleRibbon.row h1 {
+    color: #ffffff;
+    font-family 'Raleway';
+    font-size: 60px;
+    font-weight: 200;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#titleRibbon.row h4 {
+    color: #ffffff;
+    font-family 'Raleway';
+    font-size: 30px;
+    font-weight: 200;
+    text-align: center;
+    
+}
+
+
+.site-nav ul li a:hover {
+    text-decoration: none;
+    color: #bbbbbb;
+}
+
+.padding-top {
+    padding-top: 30px;
+    margin-top: 30px;
+}
+
+#titleRibbon{
+    background-color: #cbef8d;
+}
